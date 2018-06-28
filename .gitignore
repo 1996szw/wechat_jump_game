@@ -112,3 +112,4 @@ venv.bak/
 
 # for mac
 .DS_store
+WebDriverAgent/
